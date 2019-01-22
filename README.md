@@ -1,5 +1,5 @@
 # Gmail-Autoresponder
-Created over the Fall 2018 semester for a small storage facility company in Austin. 
+Created over the Fall 2018 semester for a small storage facility company in Round Rock. 
 Their software suite was frustrating them because they could not send a personalized email to tenants with their facility management software. 
 I created a command-line solution which used Python and the GMail API to parse important details from the facility software registration receipt 
 and create a personalized email to the new tenant. 
